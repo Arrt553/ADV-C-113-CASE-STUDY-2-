@@ -1,0 +1,92 @@
+body{
+    font-family: 'Kirang Haerang', cursive;
+    font-family: 'Viaoda Libre', cursive;
+    background-color: #07f547;
+    
+}
+.objectw{
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 15px;
+    font-weight: 600;
+}
+.objectw:hover{
+    cursor: not-allowed;
+    font-size: 60px;
+    font-weight: bolder;
+    border: 5px double #00ff8c;
+}
+.header_div img{
+
+    width: 100px;
+    height: auto;
+}
+.header_div:hover{
+    background-color:darkgrey;
+    font-size: 35px;
+}
+#bob{
+    cursor: not-allowed;
+    font-size: 15px;
+    font-weight: lighter;
+}
+#bob:hover{
+    border: 10px dashed #ffb700;
+    font-family: 'Sigmar One', cursive;
+    font-weight: bolder;
+    font-size: 60px;
+}
+#p:hover{
+    font-weight: bold;
+    border: 10px double #fffb00;
+}
+.main_div{
+    margin-left: 15px;
+    background-color: deepskyblue;
+    padding: 10px;
+    margin-top: 15px;
+    border: 3px double whitesmoke;
+}
+.main_div b{
+    background-color: #07f5d5;
+    width: 300px;
+    padding: 10px;
+    font-size: 20px;
+    margin-bottom: 0px;
+    box-shadow: 5px 5px 18px #f5ae07;
+}
+.main_div b:hover{
+    border: 15px double pink;
+    cursor: not-allowed;
+    font-family: 'Kirang Haerang', cursive;
+    font-size: 30px;
+}
+#ma1:hover{
+    border: 5px double #00ff8c;
+    cursor: not-allowed;
+    font-weight: 900;
+}
+#mnm1:hover{
+    border: 5px double #00ff8c;
+    cursor: not-allowed;
+    font-weight: 900;
+}
+h2:hover{
+    font-size: 60px;
+    font-family: 'Kirang Haerang', cursive;
+    font-weight: bolder;
+    color: aqua;
+    cursor: not-allowed;
+}
+#Fan{
+    width: 400px;
+    height: 400px;
+}
+#Fan:hover{
+    cursor: not-allowed;
+    box-shadow: 5px 5px 18px #f5ae07;
+}
+.gifgif:hover{
+height:auto;
+width:200px;
+box-shadow: 5px 5px 10px #ff8800;
+}
